@@ -1,5 +1,6 @@
 Node.js module for Kraken.io API
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/BorisChumichev/kraken-node?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://secure.travis-ci.org/kraken-io/kraken-node.png?branch=master)](http://travis-ci.org/kraken-io/kraken-node)
 
